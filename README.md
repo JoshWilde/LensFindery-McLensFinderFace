@@ -10,23 +10,33 @@ This paper uses 7 CNN models, these models use two basic architectures (OU-66 an
 
 ![OU-200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/OU-200-4BANDS-CLEAR_3-1.png)
 
-model code
-load images code
-training code
-testing code
+
 
 ## Gravitational Compound Lenses
 To investigate if these models can identify gravitational compound lenses, we needed to simulate these images. This was achieved using the Lenstronomy [3] and SkyPy [4] Python packages. In the paper [1], We generated two different compound lens datasets, one was mainly compound arcs and the other was mainly double Einstein rings.
 
-## Interpretability
 
 
 ## To Do List
 ### CNN Models
 model code
+
 load images code
+
 training code
+
 testing code
+
+Add Weights
+
+### Gravitational Compound Lenses
+Generating Simulated Compound Lens Code
+
+testing code
+
+
+
+
 
 ## Citation
 
