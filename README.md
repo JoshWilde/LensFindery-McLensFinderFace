@@ -9,7 +9,7 @@ This repository contains the CNN architectures and weights, and the code used to
 ## Gravitational Compound Lenses
 
 ## Citation
-
+<img src="https://github.com/JoshWilde/LensFindery-McLensFinderFace/files/6982721/OU-66_3.pdf" alt="My cool logo"/>
 
 ## References:
 [1] Detecting gravitational lenses using machine learning: exploring interpretability and sensitivity to rare lensing configurations
