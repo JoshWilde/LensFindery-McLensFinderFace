@@ -1,4 +1,4 @@
-# Detecting gravitational lenses using machine learning: exploring interpretability and sensitivity to rare lensing configuration
+# Detecting gravitational lenses using machine learning: exploring interpretability and sensitivity to rare lensing configurations
 This repository contains the CNN architectures and weights, and the code used to train and test these CNN models [1]. The code used to generate gravitational compound lenses are also included [1]. The interpretability code in this paper is adapted from [2]. 
 
 
@@ -12,7 +12,7 @@ This paper uses 7 CNN models, these models use two basic architectures (OU-66 an
 
 
 ## Gravitational Compound Lenses
-To investigate if these models can identify gravitational compound lenses, we needed to simulate these images. This was achieved 
+To investigate if these models can identify gravitational compound lenses, we needed to simulate these images. This was achieved using the Lenstronomy [3] and SkyPy [4] Python packages. In the paper [1], We generated two different compound lens datasets, one was mainly compound arcs and the other was mainly double Einstein rings.
 
 
 ## Citation
@@ -23,6 +23,6 @@ To investigate if these models can identify gravitational compound lenses, we ne
 
 [2] Ozbulak U., 2019, PyTorch CNN Visualizations, https://github.com/utkuozbulak/pytorch-cnn-visualizations 
 
-[3]
+[3] Birrer S., Amara A., 2018, Physics of the Dark Universe, 22, 189, https://github.com/sibirrer/lenstronomy
 
-[4]
+[4] SkyPy Collaboration et al., 2021, SkyPy, https://github.com/skypyproject/skypy
