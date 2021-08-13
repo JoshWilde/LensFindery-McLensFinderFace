@@ -8,7 +8,7 @@ This repository contains the CNN architectures and weights, and the code used to
 
 ![OU-200-4BANDS-CLEAR_3](https://github.com/JoshWilde/LensFindery-McLensFinderFace/files/6982719/OU-200-4BANDS-CLEAR_3.pdf)
 ## Gravitational Compound Lenses
-![GitHub Logo](https://github.com/JoshWilde/LensFindery-McLensFinderFace/OU-200-4BANDS-CLEAR_3.pdf)
+![GitHub Logo](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/OU-66_3-1.png)
 Format: ![Alt Text](https://github.com/JoshWilde/LensFindery-McLensFinderFace/OU-200-4BANDS-CLEAR_3.pdf)
 ## Citation
 
