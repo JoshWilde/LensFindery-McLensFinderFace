@@ -5,6 +5,8 @@ This repository contains the CNN architectures and weights, and the code used to
 ## CNN Models
 This paper uses 7 CNN models, these models use two basic architectures (OU-66 and OU-200) with varing number of input bands. The models OU-J, OU-Y, OU-H, OU-JYH, and OU-66 use the OU-66 architecture, and OU-VIS and OU-200 use the OU-200 architecture. 
 
+In the figures below, yellow squares represent 2D Convolutional layers, teal squares represent ReLU layers, orange squares represent 2D MaxPool layers, and red squares represent Dropout layers.
+
 ![OU-66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/OU-66_3-1.png)
 
 
