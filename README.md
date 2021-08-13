@@ -17,7 +17,7 @@ In the figures below, yellow squares represent 2D Convolutional layers, teal squ
 ## Gravitational Compound Lenses
 To investigate if these models can identify gravitational compound lenses, we needed to simulate these images. This was achieved using the Lenstronomy [3] and SkyPy [4] Python packages. In the paper [1], We generated two different compound lens datasets, one was mainly compound arcs and the other was mainly double Einstein rings.
 
-
+## Interpretability
 
 ## To Do List
 ### CNN Models
@@ -35,6 +35,25 @@ Add Weights
 Generating Simulated Compound Lens Code
 
 testing code
+
+### Interpretability
+Add Occlusion Map Code
+
+Occlusion Map Gif
+
+Images that activate kernels code
+
+Class generated images code
+
+class generated images gif
+
+Deep Dream Code
+
+Deep Dream Gifs
+
+generating images to highly activate kernels code
+
+Guided Grad-CAM code
 
 
 
