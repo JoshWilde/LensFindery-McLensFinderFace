@@ -22,7 +22,7 @@ To investigate if these models can identify gravitational compound lenses, we ne
 
 
 ## To Do List
-###CNN Models
+### CNN Models
 model code
 load images code
 training code
