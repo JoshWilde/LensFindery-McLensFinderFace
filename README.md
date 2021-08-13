@@ -3,7 +3,7 @@ This repository contains the CNN architectures and weights, and the code used to
 
 
 ## CNN Models
-
+This paper uses 7 CNN models, these models use two basic architectures (OU-66 and OU-200) with varing number of input bands. The models OU-J, OU-Y, OU-H, OU-JYH, and OU-66 use the OU-66 architecture, and OU-VIS and OU-200 use the OU-200 architecture. 
 
 ![OU-66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/OU-66_3-1.png)
 
@@ -12,6 +12,7 @@ This repository contains the CNN architectures and weights, and the code used to
 
 
 ## Gravitational Compound Lenses
+To investigate if these models can identify gravitational compound lenses, we needed to simulate these images. This was achieved 
 
 
 ## Citation
@@ -21,3 +22,7 @@ This repository contains the CNN architectures and weights, and the code used to
 [1] Detecting gravitational lenses using machine learning: exploring interpretability and sensitivity to rare lensing configurations
 
 [2] Ozbulak U., 2019, PyTorch CNN Visualizations, https://github.com/utkuozbulak/pytorch-cnn-visualizations 
+
+[3]
+
+[4]
