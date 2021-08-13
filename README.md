@@ -10,4 +10,5 @@ This repository contains the CNN architectures and weights, and the code used to
 
 ## References:
 [1] Detecting gravitational lenses using machine learning: exploring interpretability and sensitivity to rare lensing configuration
+
 [2] Ozbulak U., 2019, PyTorch CNN Visualizations, https://github.com/utkuozbulak/pytorch-cnn-visualizations 
