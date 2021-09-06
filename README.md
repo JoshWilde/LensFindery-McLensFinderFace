@@ -25,6 +25,8 @@ To investigate if these models can identify gravitational compound lenses, we ne
 
 ### Deep Dream
 
+![DD-0-OU200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_250952_OU200.gif)
+
 ## To Do List
 ### CNN Models
 model code
