@@ -32,7 +32,7 @@ We generate images which highly activated both classes (lens and non-lens) to un
 This process is shown in figure 2C, which shows the generation of class generated images for both classes in OU-66. This shows the generation of new features which cause a strong response in each of the target classes.
 
 
-![ClassAct66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/ClassActivationGif_OU66.gif)
+ClassAct66 gif
 
 This process is shown in figure 3C, which shows the generation of class generated images for both classes in OU-66.
 
