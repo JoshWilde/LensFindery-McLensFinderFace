@@ -27,7 +27,7 @@ In our paper we use create an occlusion square that contains only zero values (1
 
 
 ### Class Generated Images
-We generate images which highly activated both classes (lens and non-lens) to understand what features in the image the CNN identifies with each class. This is done by freezing the model weights of an already trained CNN and all output classes are set to 0 apart from the target class which is set to 1 [5,6]. Using back-propagation the input image is updated rather than the model weights. This results in an updated image that activates the target class more strongly than the unmodified input image. 
+We generate images which highly activated both classes (lens and non-lens) to understand what features in the image the CNN identifies with each class. This is done by freezing the model weights of an already trained CNN and all output classes are set to 0 apart from the target class which is set to 1 [5,6]. The input image contains random uniform noise and the same random image is used for each target class. Using back-propagation the input image is updated rather than the model weights. This results in an updated image that activates the target class more strongly than the unmodified input image. 
 
 This process is shown in figure 2C, which shows the generation of class generated images for both classes in OU-66. This shows the generation of new features which cause a strong response in each of the target classes.
 
@@ -37,14 +37,13 @@ This process is shown in figure 2C, which shows the generation of class generate
 This process is shown in figure 3C, which shows the generation of class generated images for both classes in OU-66.
 
 ### Deep Dream
-
-non-lens
+The deep dream process in the same as the class generated image except that the original input image is an image from the data set instead of random noise. Examples of this process are shown in figures 4C and 5C for OU-66 and OU-200. The input image to the deep dream process is classified as non-lens in the dataset.
 
 ![DD-0-OU66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_252473_OU66.gif)
 
 ![DD-0-OU200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_252473_OU200.gif)
 
-gravitational lens
+Examples of this process are shown in figures 4C and 5C for OU-66 and OU-200. The input image to the deep dream process is classified as a gravitational lens in the dataset.
 
 ![DD-1-OU66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_250952_OU66.gif)
 
@@ -96,6 +95,6 @@ Guided Grad-CAM code
 
 [4] SkyPy Collaboration et al., 2021, SkyPy, https://github.com/skypyproject/skypy
 
-[5] yosinski2015understanding
+[5] Yosinski J., Clune J., Nguyen A., Fuchs T., Lipson H., 2015, arXiv preprintarXiv:1506.06579
 
-[6] simonyan2013deep
+[6] Simonyan  K.,  Vedaldi  A.,  Zisserman  A.,  2013,  arXiv  preprintarXiv:1312.6034
