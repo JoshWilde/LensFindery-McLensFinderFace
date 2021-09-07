@@ -21,11 +21,23 @@ To investigate if these models can identify gravitational compound lenses, we ne
 
 ### Occlusion Maps
 
+![OccMap](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/OccMap_GitHub.gif)
+
+
 ### Class Generated Images
+
+![ClassAct66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/ClassActivationGif_OU66.gif)
 
 ### Deep Dream
 
-![DD-0-OU200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_250952_OU200.gif)
+![DD-0-OU66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_252473_OU66.gif)
+
+![DD-0-OU200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_252473_OU200.gif)
+
+
+![DD-1-OU66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_250952_OU66.gif)
+
+![DD-1-OU200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_250952_OU200.gif)
 
 ## To Do List
 ### CNN Models
@@ -47,8 +59,6 @@ testing code
 ### Interpretability
 Add Occlusion Map Code
 
-Occlusion Map Gif
-
 Images that activate kernels code
 
 Class generated images code
@@ -56,8 +66,6 @@ Class generated images code
 class generated images gif
 
 Deep Dream Code
-
-Deep Dream Gifs
 
 generating images to highly activate kernels code
 
