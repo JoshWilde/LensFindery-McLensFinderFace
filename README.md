@@ -51,15 +51,10 @@ Examples of this process are shown in figures 4C and 5C for OU-66 and OU-200. Th
 
 ## To Do List
 ### CNN Models
-model code
-
-load images code
 
 training code
 
 testing code
-
-Add Weights
 
 ### Gravitational Compound Lenses
 Generating Simulated Compound Lens Code
@@ -67,17 +62,10 @@ Generating Simulated Compound Lens Code
 testing code
 
 ### Interpretability
-Add Occlusion Map Code
 
 Images that activate kernels code
 
-Class generated images code
-
 class generated images gif
-
-Deep Dream Code
-
-generating images to highly activate kernels code
 
 Guided Grad-CAM code
 
