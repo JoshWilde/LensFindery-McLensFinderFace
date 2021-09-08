@@ -33,9 +33,9 @@ This process is shown in figure 2C, which shows the generation of class generate
 
 ![OU-66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/ClassActivationGif_OU66.gif)
 
-This process is shown in figure 3C, which shows the generation of class generated images for both classes in OU-200.)
+This process is shown in figure 3C, which shows the generation of class generated images for both classes in OU-200.
 
-![OU-200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/ClassActivationGif_OU200.gif
+![OU-200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/ClassActivationGif_OU200.gif)
 
 ### Deep Dream
 The deep dream process in the same as the class generated image except that the original input image is an image from the data set instead of random noise. Examples of this process are shown in figures 4C and 5C for OU-66 and OU-200. The input image to the deep dream process is classified as non-lens in the dataset.
