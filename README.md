@@ -52,8 +52,6 @@ Examples of this process are shown in figures 4C and 5C for OU-66 and OU-200. Th
 ## To Do List
 ### CNN Models
 
-training code
-
 testing code
 
 ### Gravitational Compound Lenses
