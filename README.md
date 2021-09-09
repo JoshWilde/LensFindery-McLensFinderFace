@@ -56,7 +56,6 @@ Examples of this process are shown in figures 4C and 5C for OU-66 and OU-200. Th
 testing code
 
 ### Gravitational Compound Lenses
-Generating Simulated Compound Lens Code
 
 testing code
 
