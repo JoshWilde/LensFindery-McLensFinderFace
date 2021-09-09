@@ -50,15 +50,6 @@ Examples of this process are shown in figures 4C and 5C for OU-66 and OU-200. Th
 
 ![DD-1-OU200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/Images/DeepDreamImagesGif_250952_OU200.gif)
 
-## To Do List
-### CNN Models
-
-testing code
-
-### Gravitational Compound Lenses
-
-testing code
-
 
 
 ## Citation
