@@ -60,14 +60,6 @@ Generating Simulated Compound Lens Code
 
 testing code
 
-### Interpretability
-
-Images that activate kernels code
-
-class generated images gif
-
-Guided Grad-CAM code
-
 
 
 ## Citation
