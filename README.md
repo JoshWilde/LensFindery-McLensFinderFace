@@ -23,7 +23,7 @@ Here we describe the interpretability methods we have used in this paper to unde
 ### Occlusion Maps
 In our paper we use create an occlusion square that contains only zero values (1x1 pixels for OU-66 and 4x4 pixels for OU-200). The image is passed through the CNN for each position of the occlusion square which can be seen in middle of figure 1C. The output of these positions are recorded. The change in output is shown in the right section of figure 1C. Blue pixels indicate a feature associated with gravitational lensing and red pixels indicate a feature associated with non-lensing.
 
-![OccMap](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/OccMap_GitHub.gif)
+![OccMap](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/Images/OccMap_GitHub.gif)
 
 
 ### Class Generated Images
@@ -31,24 +31,24 @@ We generate images which highly activated both classes (lens and non-lens) to un
 
 This process is shown in figure 2C, which shows the generation of class generated images for both classes in OU-66. This shows the generation of new features which cause a strong response in each of the target classes.
 
-![OU-66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/ClassActivationGif_OU66.gif)
+![OU-66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/Images/ClassActivationGif_OU66.gif)
 
 This process is shown in figure 3C, which shows the generation of class generated images for both classes in OU-200.
 
-![OU-200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/ClassActivationGif_OU200.gif)
+![OU-200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/Images/ClassActivationGif_OU200.gif)
 
 ### Deep Dream
 The deep dream process in the same as the class generated image except that the original input image is an image from the data set instead of random noise. Examples of this process are shown in figures 4C and 5C for OU-66 and OU-200. The input image to the deep dream process is classified as non-lens in the dataset.
 
-![DD-0-OU66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_252473_OU66.gif)
+![DD-0-OU66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/Images/DeepDreamImagesGif_252473_OU66.gif)
 
-![DD-0-OU200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_252473_OU200.gif)
+![DD-0-OU200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/Images/DeepDreamImagesGif_252473_OU200.gif)
 
 Examples of this process are shown in figures 4C and 5C for OU-66 and OU-200. The input image to the deep dream process is classified as a gravitational lens in the dataset.
 
-![DD-1-OU66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_250952_OU66.gif)
+![DD-1-OU66](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/Images/DeepDreamImagesGif_250952_OU66.gif)
 
-![DD-1-OU200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/DeepDreamImagesGif_250952_OU200.gif)
+![DD-1-OU200](https://github.com/JoshWilde/LensFindery-McLensFinderFace/blob/main/Interpretability/Images/DeepDreamImagesGif_250952_OU200.gif)
 
 ## To Do List
 ### CNN Models
